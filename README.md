@@ -9,3 +9,6 @@ We took the data from NSE website as a csv file which contains different option 
 We have also done the graphical analysis by plotting the real and calculated option prices for call and put types. This helps us to visualize and understand the black scholes model.
 
 The data and code is attached.
+
+Our project report and its explaining video can be found here: 
+https://drive.google.com/folderview?id=12-6ZU4vWYzWk9vv3kdlEo5hqq0293DnN
